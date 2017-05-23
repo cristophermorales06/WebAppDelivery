@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-05-2017, 21:08:03
+    Author     : crist
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#encabezado{
+    text-align: center;
+    color: blue;
+}
+#formula{
+    text-align: center;
+    color: blue;
+    width: 30%;
+    margin: 0 auto;
+    background-color:#ccccff;
+    padding: 20px;
+}
+formula cuadro{
+    margin: 40px;
+    color: #4DAD80;
+}
+select{
+    margin-top: 2px;
+    width: 50%;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 20px;
+}
+input{
+    margin-top: 15px;
+    width: 25%;
+    padding-left: 1px;
+    padding-right: 1px;
+    height: 20px;
+
+}
+#selecciona{
+    text-align: center;
+    color: red;
+}
+body{
+    background: url(../imagen/delivery.jpg);
+}
+
+#pie{
+    text-align: center;
+    color:navy;
+}
+
+
